@@ -5,7 +5,8 @@
 This Python script uses the [NASA APOD API](https://api.nasa.gov/api.html#apod) to retrieve the "Astronomy Picture of the Day" and posts it to Twitter. It also includes functionality to handle both image and video media types.
 
 Link to the Twitter Account - https://twitter.com/bot_motaphe
-A Video Explaining My Code - https://youtu.be/OMUx9HyxnLg
+
+A Video Explaining the Code - https://youtu.be/OMUx9HyxnLg
 
 ## Prerequisites
 
